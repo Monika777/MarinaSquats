@@ -123,6 +123,12 @@ body {
 .card {
 	background-color: #15161A;
 }
+.card h5 {
+	margin-bottom: 20px;
+}
+.py-5 {
+    padding-bottom: 0 !important;
+}
 
 .bottom-section .fab {
 	font-size: 2em;
